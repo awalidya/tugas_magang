@@ -9,4 +9,4 @@ from sklearn.metrics import davies_bouldin_score, silhouette_score
 from mpl_toolkits.mplot3d import Axes3D
 
 st.set_page_config(layout="wide")
-st.title("Aplikasi Pengelompokan Wilayah Berdasarkan Capaian Pengelolaan Sampah")
+st.title("Aplikasi")
